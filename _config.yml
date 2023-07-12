@@ -7,11 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Steffi Chern / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Steffi Chern"
-description              : &description "Hi, I'm Steffi. I'm an undergraduate student majoring Statistics and
-                             Machine Learning at Carnegie Mellon University. I'm interested in the intersection of Natural Language Processing and Machine Learning."
+description              : &description "undergrad senior majoring stats & machine learning @ CMU"
 url                      : https://steffichern.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "steffichern/steffichern.github.io"
@@ -86,8 +85,8 @@ author:
   bio              : ":D"
   location         : "Pittsburgh, Pennsylvania"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "steffic@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/steffichern"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
