@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Hi everyone! I'm Steffi, currently a undergraduate senior studying Statistics and Machine Learning at Carnegie Mellon University.
+🎓 Hi everyone! I'm Steffi, currently an undergraduate senior studying Statistics and Machine Learning at Carnegie Mellon University.
+
+📚 My research interests lie at the intersection of natural language processing and machine learning. Here, we employ machine learning methodologies to improve, augment, and revolutionize the way we process and understand human language.
+
+✨ I am particularly interested in exploring how ML and NLP can converge to translate foundational work into practical tools, thereby creating impactful solutions to real-world problems across various fields.
+
+🚀 I'm currently working on generative AI benchmarks to uncover the capabilities and limitations of Large Language Models.
 
 ⛳ I'm also a student-athlete, playing NCAA Women's Golf at Carnegie Mellon University.
 
-📚 My research interests lie at the intersection of natural language processing and machine learning.
-
-🚀 I'm currently working on generative AI benchmarks to uncover the capabilities and limitations of Large Language Models.
+📩 Feel free to email me about any potential collaborative/job opportunities, queries regarding my research, or discuss about the future of Natural Language Processing and Machine Learning!
 
 <!--
 A data-driven personal website
