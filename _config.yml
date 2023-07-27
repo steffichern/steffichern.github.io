@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Steffi Chern"
-description              : &description "undergrad senior majoring in stats & ml @ CMU"
+description              : &description "undergrad junior majoring in stats & ml @ CMU"
 url                      : https://steffichern.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "steffichern/steffichern.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Steffi Chern"
   avatar           : "profile.png"
-  bio              : "undergrad senior majoring stats & machine learning @ CMU"
+  bio              : "undergrad junior majoring stats & machine learning @ CMU"
   location         : "Pittsburgh, Pennsylvania"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
