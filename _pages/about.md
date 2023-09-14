@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Hi everyone! I'm Steffi, currently an undergraduate junior studying Statistics and Machine Learning at Carnegie Mellon University.
+🎓 Hi everyone! I'm Steffi, currently an undergraduate senior studying Statistics and Machine Learning at Carnegie Mellon University, seeking opportunities to pursue a Master/PhD degree in Computer Science / Computational Linguistics.
 
 ✨ My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). I'm particularly interested in developing rigorous evaluations of large language models (LLMs) that delve deeper than surface-level task performance.
 
