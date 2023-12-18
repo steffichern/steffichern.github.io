@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Coming soon.
+[My Personal CV](https://drive.google.com/file/d/1F45gp5a8-N0EskiletAEVRAoHc7Mg8tq/view?usp=sharing)
 {% include base_path %}
 <!--
 Education
