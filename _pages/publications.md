@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# Publications
 
 **Scalable Evaluation of Generative Chatbots via Multi-Agent Debate**  
 **Steffi Chern**, Ethan Chern, Graham Neubig, Pengfei Liu    
@@ -20,7 +19,8 @@ preprint. [[paper]](https://drive.google.com/file/d/1ihrBa6zQCEkEZGS063pv0DeTiAv
 
 **FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**  
 I-Chun Chern, **Steffi Chern**, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu  
-preprint. [[paper]](https://arxiv.org/abs/2307.13528) [[github]](https://github.com/GAIR-NLP/factool) [[website]] (https://ethanc111.github.io/factool_website/)
+preprint. [[paper]](https://arxiv.org/abs/2307.13528) [[github]](https://github.com/GAIR-NLP/factool)
+[[website]] (https://ethanc111.github.io/factool_website/)
 
 **Voice Direction‑of-Arrival Conversion**  
 I‑Chun Chern, **Steffi Chern**, Heng‑Cheng Kuo, Huan‑Hsin Tseng, Kuo‑Hsuan Hung, Yu Tsao  
