@@ -7,11 +7,11 @@ author_profile: true
 
 **Scalable Evaluation of Generative Chatbots via Multi-Agent Debate**  
 **Steffi Chern**, Ethan Chern, Graham Neubig, Pengfei Liu    
-Preprint. [[paper]](https://drive.google.com/file/d/1fKKE0hSTfQc1_lxHgusVQ9DEWCRl9f6b/view) 
+Preprint. 
 
 **Align on the Fly: Adapting Chatbot Behavior to Established Norms**     
 Chunpu Xu, **Steffi Chern**, Ethan Chern, Ge Zhang, Zekun Wang, Ruibo Liu, Jing Li, Jie Fu, Pengfei Liu       
-Preprint. 
+Preprint. [[paper]](https://arxiv.org/pdf/2312.15907.pdf) 
 
 **Combating Adversarial Attacks with Multi‑Agent Debate**  
 **Steffi Chern** *, Zhen Fan *, Andy Liu *      
