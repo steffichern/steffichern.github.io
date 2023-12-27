@@ -11,7 +11,7 @@ Preprint.
 
 **Align on the Fly: Adapting Chatbot Behavior to Established Norms**     
 Chunpu Xu, **Steffi Chern**, Ethan Chern, Ge Zhang, Zekun Wang, Ruibo Liu, Jing Li, Jie Fu, Pengfei Liu       
-Preprint. [[paper]](https://arxiv.org/pdf/2312.15907.pdf) 
+Preprint. [[paper]](https://arxiv.org/pdf/2312.15907.pdf) [[github]](https://github.com/GAIR-NLP/OPO)
 
 **Combating Adversarial Attacks with Multi‑Agent Debate**  
 **Steffi Chern** *, Zhen Fan *, Andy Liu *      
