@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Scalable Evaluation of Generative Chatbots via Multi-Agent Debate**  
+**Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**  
 **Steffi Chern**, Ethan Chern, Graham Neubig, Pengfei Liu    
 Preprint. 
 
