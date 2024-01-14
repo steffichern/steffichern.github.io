@@ -19,7 +19,7 @@ Preprint. [[paper]](https://arxiv.org/pdf/2401.05998.pdf)
 
 **Align on the Fly: Adapting Chatbot Behavior to Established Norms**     
 Chunpu Xu, **Steffi Chern**, Ethan Chern, Ge Zhang, Zekun Wang, Ruibo Liu, Jing Li, Jie Fu, Pengfei Liu       
-Preprint. [[paper]](https://arxiv.org/pdf/2312.15907.pdf) [[github]](https://github.com/GAIR-NLP/OPO)
+Preprint. [[paper]](https://arxiv.org/pdf/2312.15907.pdf) [[github]](https://github.com/GAIR-NLP/OPO) [[website]](https://gair-nlp.github.io/OPO/)
 
 **Voice Direction‑of-Arrival Conversion**  
 I‑Chun Chern, **Steffi Chern**, Heng‑Cheng Kuo, Huan‑Hsin Tseng, Kuo‑Hsuan Hung, Yu Tsao  
