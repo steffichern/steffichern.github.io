@@ -15,7 +15,7 @@ Preprint, submitted to 12nd International Conference on Learning Representations
 
 **Combating Adversarial Attacks with Multi‑Agent Debate**  
 **Steffi Chern** *, Zhen Fan *, Andy Liu *      
-Preprint. [[paper]](https://drive.google.com/file/d/1ihrBa6zQCEkEZGS063pv0DeTiAvXy4u_/view)
+Preprint. [[paper]](https://arxiv.org/pdf/2401.05998.pdf)
 
 **Align on the Fly: Adapting Chatbot Behavior to Established Norms**     
 Chunpu Xu, **Steffi Chern**, Ethan Chern, Ge Zhang, Zekun Wang, Ruibo Liu, Jing Li, Jie Fu, Pengfei Liu       
