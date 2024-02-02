@@ -7,7 +7,7 @@ author_profile: true
 
 **Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**  
 **Steffi Chern**, Ethan Chern, Graham Neubig, Pengfei Liu    
-Preprint. [[paper]](https://drive.google.com/file/d/1fKKE0hSTfQc1_lxHgusVQ9DEWCRl9f6b/view?usp=sharing)
+Preprint. [[paper]](https://arxiv.org/abs/2401.16788) [[github]](https://github.com/GAIR-NLP/scaleeval)
 
 **FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**  
 I-Chun Chern, **Steffi Chern**, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu    
@@ -15,11 +15,11 @@ Preprint. [[paper]](https://arxiv.org/abs/2307.13528) [[github]](https://github.
 
 **Combating Adversarial Attacks with Multi‑Agent Debate**  
 **Steffi Chern** *, Zhen Fan *, Andy Liu *      
-Preprint. [[paper]](https://arxiv.org/pdf/2401.05998.pdf)
+Preprint. [[paper]](https://arxiv.org/abs/2401.05998)
 
 **Align on the Fly: Adapting Chatbot Behavior to Established Norms**     
 Chunpu Xu, **Steffi Chern**, Ethan Chern, Ge Zhang, Zekun Wang, Ruibo Liu, Jing Li, Jie Fu, Pengfei Liu       
-Preprint. [[paper]](https://arxiv.org/pdf/2312.15907.pdf) [[github]](https://github.com/GAIR-NLP/OPO) [[website]](https://gair-nlp.github.io/OPO/)
+Preprint. [[paper]](https://arxiv.org/abs/2312.15907) [[github]](https://github.com/GAIR-NLP/OPO) [[website]](https://gair-nlp.github.io/OPO/)
 
 **Voice Direction‑of-Arrival Conversion**  
 I‑Chun Chern, **Steffi Chern**, Heng‑Cheng Kuo, Huan‑Hsin Tseng, Kuo‑Hsuan Hung, Yu Tsao  
