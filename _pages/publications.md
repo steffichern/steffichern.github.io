@@ -4,11 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**BeHonest: Benchmarking Honesty of Large Language Models**
+**BeHonest: Benchmarking Honesty of Large Language Models**  
 **Steffi Chern**, Zhulin Hu, Yuqing Yang, Ethan Chern, Yuan Guo, Jiahe Jin, Binjie Wang, Pengfei Liu
 Preprint.
 
-**Halu-J: Critique-Based Hallucination Judge**
+**Halu-J: Critique-Based Hallucination Judge**  
 Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu
 Preprint.
 
