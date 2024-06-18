@@ -23,12 +23,12 @@ redirect_from:
 
 ⬇️ Below are some of my recent publications:
 
-**BeHonest: Benchmarking Honesty of Large Language Models**
-**Steffi Chern**, Zhulin Hu, Yuqing Yang, Ethan Chern, Yuan Guo, Jiahe Jin, Binjie Wang, Pengfei Liu
+**BeHonest: Benchmarking Honesty of Large Language Models**  
+**Steffi Chern**, Zhulin Hu, Yuqing Yang, Ethan Chern, Yuan Guo, Jiahe Jin, Binjie Wang, Pengfei Liu  
 Preprint.
 
-**Halu-J: Critique-Based Hallucination Judge**
-Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu
+**Halu-J: Critique-Based Hallucination Judge**  
+Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu  
 Preprint.
 
 **Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**  
