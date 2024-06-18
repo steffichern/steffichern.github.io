@@ -4,6 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**BeHonest: Benchmarking Honesty of Large Language Models**
+**Steffi Chern**, Zhulin Hu, Yuqing Yang, Ethan Chern, Yuan Guo, Jiahe Jin, Binjie Wang, Pengfei Liu
+Preprint.
+
+**Halu-J: Critique-Based Hallucination Judge**
+Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu
+Preprint.
 
 **Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**  
 **Steffi Chern**, Ethan Chern, Graham Neubig, Pengfei Liu    
@@ -23,8 +30,8 @@ Preprint. [[paper]](https://arxiv.org/abs/2312.15907) [[github]](https://github.
 
 **Voice Direction‑of-Arrival Conversion**  
 I‑Chun Chern, **Steffi Chern**, Heng‑Cheng Kuo, Huan‑Hsin Tseng, Kuo‑Hsuan Hung, Yu Tsao  
-Accepted to 33rd IEEE Machine Learning for Signal Processing (MLSP) 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10285936)
+33rd IEEE Machine Learning for Signal Processing (MLSP) 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10285936)
 
 **Automated Analysis of Fluency Behaviors in Aphasia.**    
 Davida Fromm, Brian MacWhinney, **Steffi Chern**, Zihan Geng, Mason Kim, Joel Greenhouse   
-Accepted to 52nd Clinical Aphasiology Conference (CAC). [[poster]](https://aphasia.talkbank.org/posters/23CAC-Fromm.pdf) [[paper]](https://drive.google.com/file/d/1_cZjQS0qW4kYmwJhCcCKMt3OGcr9AdJV/view)
+52nd Clinical Aphasiology Conference (CAC) & Journal of Speech, Language, and Hearing Research (JSLHR) [[poster]](https://aphasia.talkbank.org/posters/23CAC-Fromm.pdf) [[paper]](https://drive.google.com/file/d/1_cZjQS0qW4kYmwJhCcCKMt3OGcr9AdJV/view)
