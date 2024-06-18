@@ -8,15 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Hi everyone! I'm Steffi, currently an undergraduate senior studying Statistics and Machine Learning at Carnegie Mellon University, seeking opportunities to pursue a Ph.D. degree in NLP/ Computer Science  starting Fall 2024.
+🎓 Hi everyone! I'm Steffi, currently an undergraduate senior studying Statistics and Machine Learning at Carnegie Mellon University, seeking opportunities to pursue a Ph.D. degree in NLP/ Computer Science starting Fall 2025.
 
-✨ My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). I'm particularly interested in developing rigorous evaluations of large language models (LLMs) that delve deeper than surface-level task performance.
+✨ My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). I'm particularly interested in developing reliable methods for aligning and evaluating large language models (LLMs).
 
-🚀 In this rapidly evolving field, I strive to contribute towards establishing more reliable and comprehensive evaluation frameworks to better understand the capabilities and limitations of existing AI systems, thereby enhancing their trustworthiness and ensuring their behaviors follow human intentions.
+🚀 In this rapidly evolving field, I strive to contribute to the advancement of techniques that ensure the trustworthiness and robustness of LLMs.
+
+<!-- 🚀 In this rapidly evolving field, I strive to contribute towards establishing more reliable and comprehensive evaluation frameworks to better understand the capabilities and limitations of existing AI systems, thereby enhancing their trustworthiness and ensuring their behaviors follow human intentions. -->
 
 ⛳ I'm also a student-athlete, playing NCAA Women's Golf at Carnegie Mellon University.
 
+📩 Feel free to contact me about any research/job opportunities or questions you have!
+
+
 ⬇️ Below are some of my recent publications:
+
+**BeHonest: Benchmarking Honesty of Large Language Models**
+**Steffi Chern**, Zhulin Hu, Yuqing Yang, Ethan Chern, Yuan Guo, Jiahe Jin, Binjie Wang, Pengfei Liu
+Preprint.
+
+**Halu-J: Critique-Based Hallucination Judge**
+Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu
+Preprint.
 
 **Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**  
 **Steffi Chern**, Ethan Chern, Graham Neubig, Pengfei Liu    
@@ -34,16 +47,15 @@ Preprint. [[paper]](https://arxiv.org/abs/2401.05998)
 Chunpu Xu, **Steffi Chern**, Ethan Chern, Ge Zhang, Zekun Wang, Ruibo Liu, Jing Li, Jie Fu, Pengfei Liu       
 Preprint. [[paper]](https://arxiv.org/abs/2312.15907) [[github]](https://github.com/GAIR-NLP/OPO)
 
-
 **Voice Direction‑of-Arrival Conversion**  
 I‑Chun Chern, **Steffi Chern**, Heng‑Cheng Kuo, Huan‑Hsin Tseng, Kuo‑Hsuan Hung, Yu Tsao  
 Accepted to 33rd IEEE Machine Learning for Signal Processing (MLSP) 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10285936)
 
 **Automated Analysis of Fluency Behaviors in Aphasia.**    
 Davida Fromm, Brian MacWhinney, **Steffi Chern**, Zihan Geng, Mason Kim, Joel Greenhouse   
-Accepted to 52nd Clinical Aphasiology Conference (CAC). [[poster]](https://aphasia.talkbank.org/posters/23CAC-Fromm.pdf) [[paper]](https://drive.google.com/file/d/1_cZjQS0qW4kYmwJhCcCKMt3OGcr9AdJV/view)
+Accepted to 52nd Clinical Aphasiology Conference (CAC) and Journal of Speech, Language, and Hearing Research (JSLHR). [[poster]](https://aphasia.talkbank.org/posters/23CAC-Fromm.pdf) [[paper]](https://drive.google.com/file/d/1_cZjQS0qW4kYmwJhCcCKMt3OGcr9AdJV/view)
 
-📩 Feel free to contact me about any research/job opportunities or questions you have!
+
 
 <!--
 A data-driven personal website
