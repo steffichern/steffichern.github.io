@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 **BeHonest: Benchmarking Honesty of Large Language Models**  
-**Steffi Chern**, Zhulin Hu, Yuqing Yang, Ethan Chern, Yuan Guo, Jiahe Jin, Binjie Wang, Pengfei Liu
+**Steffi Chern**, Zhulin Hu, Yuqing Yang, Ethan Chern, Yuan Guo, Jiahe Jin, Binjie Wang, Pengfei Liu  
 Preprint.
 
 **Halu-J: Critique-Based Hallucination Judge**  
-Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu
+Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu  
 Preprint.
 
 **Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**  
