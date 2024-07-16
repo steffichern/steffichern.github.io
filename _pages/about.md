@@ -18,7 +18,7 @@ redirect_from:
 
 <!-- 🚀 In this rapidly evolving field, I strive to contribute towards establishing more reliable and comprehensive evaluation frameworks to better understand the capabilities and limitations of existing AI systems, thereby enhancing their trustworthiness and ensuring their behaviors follow human intentions. -->
 
-⛳ I'm also a student-athlete, playing NCAA Women's Golf at Carnegie Mellon University.
+<!-- ⛳ I'm also a student-athlete, playing NCAA Women's Golf at Carnegie Mellon University.-->
 
 📩 Feel free to contact me about any research/job opportunities or questions you have!
 
