@@ -9,7 +9,7 @@ author_profile: true
 Preprint. [[paper]](https://arxiv.org/abs/2406.13261) [[github]](https://github.com/GAIR-NLP/BeHonest) [[website]](https://gair-nlp.github.io/BeHonest/)
 
 **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**
-Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, Yuqing Yang, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, **Steffi Chern**, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu
+Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, Yuqing Yang, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, **Steffi Chern**, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu  
 Preprint. [[paper]](https://arxiv.org/abs/2406.12753) [[github]](https://github.com/GAIR-NLP/OlympicArena) [[website]](https://gair-nlp.github.io/OlympicArena/)
 
 **Halu-J: Critique-Based Hallucination Judge**  
