@@ -10,9 +10,11 @@ redirect_from:
 
 🎓 Hi everyone! I'm Steffi, currently an undergraduate senior studying Statistics and Machine Learning at Carnegie Mellon University, seeking opportunities to pursue a Ph.D. degree in NLP/ Computer Science starting Fall 2025.
 
-✨ My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). I'm particularly interested in developing reliable methods for aligning and evaluating large language models (LLMs).
+🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). I'm particularly interested in developing reliable methods for aligning and evaluating large language models (LLMs).
 
 🚀 In this rapidly evolving field, I strive to contribute to the advancement of techniques that ensure the trustworthiness and robustness of LLMs.
+
+✨ I'm fortunate to have received an honorable mention for the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
 <!-- 🚀 In this rapidly evolving field, I strive to contribute towards establishing more reliable and comprehensive evaluation frameworks to better understand the capabilities and limitations of existing AI systems, thereby enhancing their trustworthiness and ensuring their behaviors follow human intentions. -->
 
@@ -23,13 +25,13 @@ redirect_from:
 
 ⬇️ Below are some of my recent publications:
 
-**BeHonest: Benchmarking Honesty of Large Language Models**  
+**BeHonest: Benchmarking Honesty in Large Language Models**  
 **Steffi Chern**, Zhulin Hu, Yuqing Yang, Ethan Chern, Yuan Guo, Jiahe Jin, Binjie Wang, Pengfei Liu  
-Preprint.
+Preprint. [[paper]](https://arxiv.org/abs/2406.13261) [[github]](https://github.com/GAIR-NLP/BeHonest) [[website]](https://gair-nlp.github.io/BeHonest/)
 
 **Halu-J: Critique-Based Hallucination Judge**  
 Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu  
-Preprint.
+Preprint. 
 
 **Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**  
 **Steffi Chern**, Ethan Chern, Graham Neubig, Pengfei Liu    
@@ -52,8 +54,8 @@ I‑Chun Chern, **Steffi Chern**, Heng‑Cheng Kuo, Huan‑Hsin Tseng, Kuo‑Hsu
 Accepted to 33rd IEEE Machine Learning for Signal Processing (MLSP) 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10285936)
 
 **Automated Analysis of Fluency Behaviors in Aphasia.**    
-Davida Fromm, Brian MacWhinney, **Steffi Chern**, Zihan Geng, Mason Kim, Joel Greenhouse   
-Accepted to 52nd Clinical Aphasiology Conference (CAC) and Journal of Speech, Language, and Hearing Research (JSLHR). [[poster]](https://aphasia.talkbank.org/posters/23CAC-Fromm.pdf) [[paper]](https://drive.google.com/file/d/1_cZjQS0qW4kYmwJhCcCKMt3OGcr9AdJV/view)
+Davida Fromm, **Steffi Chern**, Zihan Geng, Mason Kim, Brian MacWhinney, Joel Greenhouse   
+Accepted to 52nd Clinical Aphasiology Conference (CAC) for poster, and Journal of Speech, Language, and Hearing Research for paper (JSLHR). [[poster]](https://aphasia.talkbank.org/posters/23CAC-Fromm.pdf) [[paper]](https://drive.google.com/file/d/1_cZjQS0qW4kYmwJhCcCKMt3OGcr9AdJV/view)
 
 
 
