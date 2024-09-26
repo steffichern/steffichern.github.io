@@ -10,7 +10,7 @@ Preprint. [[paper]](https://arxiv.org/abs/2406.13261) [[github]](https://github.
 
 **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**  
 Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, Yuqing Yang, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, **Steffi Chern**, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu  
-Preprint. [[paper]](https://arxiv.org/abs/2406.12753) [[github]](https://github.com/GAIR-NLP/OlympicArena) [[website]](https://gair-nlp.github.io/OlympicArena/)
+Accepted to Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS D&B Track) [[paper]](https://arxiv.org/abs/2406.12753) [[github]](https://github.com/GAIR-NLP/OlympicArena) [[website]](https://gair-nlp.github.io/OlympicArena/)
 
 **Halu-J: Critique-Based Hallucination Judge**  
 Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu  
@@ -34,7 +34,7 @@ Preprint. [[paper]](https://arxiv.org/abs/2401.05998)
 
 **Voice Direction‑of-Arrival Conversion**  
 I‑Chun Chern, **Steffi Chern**, Heng‑Cheng Kuo, Huan‑Hsin Tseng, Kuo‑Hsuan Hung, Yu Tsao  
-33rd IEEE Machine Learning for Signal Processing (MLSP) 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10285936)
+Accepted to 33rd IEEE Machine Learning for Signal Processing (MLSP) 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10285936)
 
 **Automated Analysis of Fluency Behaviors in Aphasia.**    
 Davida Fromm, **Steffi Chern**, Zihan Geng, Mason Kim, Brian MacWhinney, Joel Greenhouse   
