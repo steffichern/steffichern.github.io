@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Hi everyone! I'm Steffi, currently an undergraduate senior studying Statistics and Machine Learning at Carnegie Mellon University, seeking opportunities to pursue a Ph.D. degree in NLP/ Computer Science starting Fall 2025.
+🎓 Hi everyone! I'm Steffi, and I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU). I'm seeking opportunities to pursue a Ph.D. degree in Computer Science starting Fall 2025.
 
-🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). I'm particularly interested in developing reliable methods for aligning and evaluating large language models (LLMs).
+🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML), where I'm focused on developing trustworthy AI through reliable (super)alignment techniques and rigorous evaluation benchmarks for large language models (LLMs).
 
-🚀 In this rapidly evolving field, I strive to contribute to the advancement of techniques that ensure the trustworthiness and robustness of LLMs.
+<!-- 🚀 In this rapidly evolving field, I strive to contribute to the advancement of techniques that ensure the trustworthiness and robustness of LLMs. -->
 
 ✨ I'm fortunate to have received an honorable mention for the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
 <!-- 🚀 In this rapidly evolving field, I strive to contribute towards establishing more reliable and comprehensive evaluation frameworks to better understand the capabilities and limitations of existing AI systems, thereby enhancing their trustworthiness and ensuring their behaviors follow human intentions. -->
 
-<!-- ⛳ I'm also a student-athlete, playing NCAA Women's Golf at Carnegie Mellon University.-->
+⛳ I was also a student-athlete, playing NCAA Women's Golf at CMU.
 
 📩 Feel free to contact me about any research/job opportunities or questions you have!
 
-
+--------------------------------------------------------------------------------------------------------------
 ⬇️ Below are some of my recent publications:
 
 **BeHonest: Benchmarking Honesty in Large Language Models**  
@@ -33,13 +33,13 @@ Preprint. [[paper]](https://arxiv.org/abs/2406.13261) [[github]](https://github.
 Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, Yuqing Yang, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, **Steffi Chern**, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu  
 Accepted to Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS D&B Track) [[paper]](https://arxiv.org/abs/2406.12753) [[github]](https://github.com/GAIR-NLP/OlympicArena) [[website]](https://gair-nlp.github.io/OlympicArena/)
 
-**Halu-J: Critique-Based Hallucination Judge**  
-Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu  
-Preprint. 
-
 **Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**  
 **Steffi Chern**, Ethan Chern, Graham Neubig, Pengfei Liu    
 Preprint. [[paper]](https://arxiv.org/abs/2401.16788) [[github]](https://github.com/GAIR-NLP/scaleeval)
+
+**Halu-J: Critique-Based Hallucination Judge**  
+Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu  
+Preprint. [[paper]](https://arxiv.org/pdf/2407.12943)
 
 **FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**  
 I-Chun Chern, **Steffi Chern**, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu    
