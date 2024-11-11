@@ -10,8 +10,10 @@ redirect_from:
 
 🎓 Hi everyone! I'm Steffi, and I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU). I'm seeking opportunities to pursue a Ph.D. degree in Computer Science starting Fall 2025.
 
-🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML), where I'm focused on developing trustworthy AI through reliable (super)alignment techniques and rigorous evaluation benchmarks for large language models (LLMs).
-
+🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). Specifically, I'm interested in the following topics: 
+- **Trustworthy AI**: Ensuring AI systems are reliable, honest, and aligned with social and ethical norms. This includes developing tools to detect factual inaccuracies, prevent hallucinations, and adapt AI behavior to meet human expectations in dynamic, real-world settings. [BeHonest](https://arxiv.org/abs/2406.13261), [FacTool](https://arxiv.org/abs/2307.13528), [Align on the Fly](https://arxiv.org/abs/2312.15907), [Halu-J](https://arxiv.org/pdf/2407.12943).
+- **Evaluation and Benchmarking of LLMs**: Investigating scalable oversight methods to assess the performance of LLMs. Emphasis on human-AI collaboration, leveraging AI to enhance humans oversight and evaluate model outputs effectively. [ScaleEval](https://arxiv.org/abs/2401.16788), [OlympicArena](https://arxiv.org/abs/2406.12753), [BeHonest](https://arxiv.org/abs/2406.13261).
+- **Robustness and Safety in AI**: Enhancing the robustness of AI models against adversarial attacks and exploring methods to strengthen model defenses, aiming to ensure safer interactions between AI systems and humans. [Combating Adversarial Attacks](https://arxiv.org/abs/2401.05998). 
 <!-- 🚀 In this rapidly evolving field, I strive to contribute to the advancement of techniques that ensure the trustworthiness and robustness of LLMs. -->
 
 ✨ I'm fortunate to have received an honorable mention for the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
