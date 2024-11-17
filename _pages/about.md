@@ -73,7 +73,8 @@ Accepted to 52nd Clinical Aphasiology Conference (CAC) for poster, and Journal o
 --------------------------------------------------------------------------------------------------------------
 # Teaching
 
-📚 Teaching Assistant: Probability Theory (2023), Advanced Methods for Data Analysis (2024)
+📚 Teaching Assistant for *Probability Theory*, Fall 2023
+📚 Teaching Assistant for *Advanced Methods for Data Analysis*, Spring 2024
 
 
 <!--
