@@ -25,6 +25,8 @@ redirect_from:
 📩 Feel free to contact me about any research/job opportunities or questions you have!
 
 --------------------------------------------------------------------------------------------------------------
+# Publications
+
 ⬇️ Below are some of my recent publications:
 
 **BeHonest: Benchmarking Honesty in Large Language Models**  
@@ -64,7 +66,9 @@ Davida Fromm, **Steffi Chern**, Zihan Geng, Mason Kim, Brian MacWhinney, Joel Gr
 Accepted to 52nd Clinical Aphasiology Conference (CAC) for poster, and Journal of Speech, Language, and Hearing Research for paper (JSLHR). [[poster]](https://aphasia.talkbank.org/posters/23CAC-Fromm.pdf) [[paper]](https://drive.google.com/file/d/1_cZjQS0qW4kYmwJhCcCKMt3OGcr9AdJV/view)
 
 --------------------------------------------------------------------------------------------------------------
-🔎 Academic Reviewer: NeurIPS (2024), ICLR (2025), AISTATS (2025)
+# Academic Service 
+
+🔎 Reviewer: NeurIPS (2024), ICLR (2025), AISTATS (2025)
 
 
 <!--
