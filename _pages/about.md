@@ -70,7 +70,10 @@ Accepted to 52nd Clinical Aphasiology Conference (CAC) for poster, and Journal o
 
 🔎 Reviewer: NeurIPS (2024), ICLR (2025), AISTATS (2025)
 
+--------------------------------------------------------------------------------------------------------------
+# Teaching
 
+📚 Teaching Assistant: Probability Theory (2023), Advanced Methods for Data Analysis (2024)
 <!--
 A data-driven personal website
 ======
