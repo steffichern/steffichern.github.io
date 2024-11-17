@@ -27,13 +27,14 @@ redirect_from:
 --------------------------------------------------------------------------------------------------------------
 # Academic Service 
 
-🔎 Reviewer: NeurIPS (2024), ICLR (2025), AISTATS (2025)
+🔎 Reviewer: NeurIPS (2024), ICLR (2025), AISTATS (2025) 
 
 --------------------------------------------------------------------------------------------------------------
 # Teaching
 
-📚 Teaching Assistant for *Probability Theory*, Fall 2023
-📚 Teaching Assistant for *Advanced Methods for Data Analysis*, Spring 2024
+📚 Teaching Assistant for *Probability Theory*, Fall 2023 
+
+📚 Teaching Assistant for *Advanced Methods for Data Analysis*, Spring 2024 
 
 --------------------------------------------------------------------------------------------------------------
 # Publications
