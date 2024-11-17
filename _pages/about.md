@@ -25,6 +25,17 @@ redirect_from:
 📩 Feel free to contact me about any research/job opportunities or questions you have!
 
 --------------------------------------------------------------------------------------------------------------
+# Academic Service 
+
+🔎 Reviewer: NeurIPS (2024), ICLR (2025), AISTATS (2025)
+
+--------------------------------------------------------------------------------------------------------------
+# Teaching
+
+📚 Teaching Assistant for *Probability Theory*, Fall 2023
+📚 Teaching Assistant for *Advanced Methods for Data Analysis*, Spring 2024
+
+--------------------------------------------------------------------------------------------------------------
 # Publications
 
 ⬇️ Below are some of my recent publications:
@@ -64,17 +75,6 @@ Accepted to 33rd IEEE Machine Learning for Signal Processing (MLSP) 2023. [[pape
 **Automated Analysis of Fluency Behaviors in Aphasia.**    
 Davida Fromm, **Steffi Chern**, Zihan Geng, Mason Kim, Brian MacWhinney, Joel Greenhouse   
 Accepted to 52nd Clinical Aphasiology Conference (CAC) for poster, and Journal of Speech, Language, and Hearing Research for paper (JSLHR). [[poster]](https://aphasia.talkbank.org/posters/23CAC-Fromm.pdf) [[paper]](https://drive.google.com/file/d/1_cZjQS0qW4kYmwJhCcCKMt3OGcr9AdJV/view)
-
---------------------------------------------------------------------------------------------------------------
-# Academic Service 
-
-🔎 Reviewer: NeurIPS (2024), ICLR (2025), AISTATS (2025)
-
---------------------------------------------------------------------------------------------------------------
-# Teaching
-
-📚 Teaching Assistant for *Probability Theory*, Fall 2023
-📚 Teaching Assistant for *Advanced Methods for Data Analysis*, Spring 2024
 
 
 <!--
