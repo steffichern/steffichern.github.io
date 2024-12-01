@@ -1,4 +1,4 @@
----https://github.com/steffichern/steffichern.github.io/blob/master/_pages/about.md
+---
 permalink: /
 title: "Steffi Chern"
 excerpt: "Steffi Chern"
