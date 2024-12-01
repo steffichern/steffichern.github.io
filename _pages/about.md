@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Hi everyone! I'm Steffi, and I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU). I'm seeking opportunities to pursue a Ph.D. degree in Computer Science starting Fall 2025.
+🎓 Hi everyone! I'm Steffi, and I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU). I'm seeking opportunities to pursue a Ph.D. degree in Computer Science starting Fall 2025. In my undergraduate years at CMU, I have been fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/), [Prof. Pengfei Liu](http://pfliu.com/), and [Prof. Joel Greenhouse](https://www.stat.cmu.edu/~joel/).
+
+
 
 🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). Specifically, I'm interested in the following topics: 
 - **Superalignment**: Ensuring that superintelligent AI systems autonomously adhere to human goals, values, and safety standards, especially as they surpass human cognitive understanding and operate in scenarios that are hard for humans to control. [ScaleEval](https://arxiv.org/abs/2401.16788), [OlympicArena](https://arxiv.org/abs/2406.12753), [BeHonest](https://arxiv.org/abs/2406.13261), [Cognitive Engineering](to come).
