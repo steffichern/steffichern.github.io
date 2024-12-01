@@ -1,4 +1,4 @@
----
+---https://github.com/steffichern/steffichern.github.io/blob/master/_pages/about.md
 permalink: /
 title: "Steffi Chern"
 excerpt: "Steffi Chern"
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Hi everyone! I'm Steffi, and I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU). I'm seeking opportunities to pursue a Ph.D. degree in Computer Science starting Fall 2025. In my undergraduate years at CMU, I have been fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/), [Prof. Pengfei Liu](http://pfliu.com/), and [Prof. Joel Greenhouse](https://www.stat.cmu.edu/~joel/).
+🎓 Hi everyone! I'm Steffi, and I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU). I'm seeking opportunities to pursue a Ph.D. degree in Computer Science starting Fall 2025. During my undergraduate years at CMU, I was fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/), [Prof. Pengfei Liu](http://pfliu.com/), and [Prof. Joel Greenhouse](https://www.stat.cmu.edu/~joel/).
 
 
 
