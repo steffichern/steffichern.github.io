@@ -10,7 +10,7 @@ Preprint. [[paper]](https://arxiv.org/abs/2406.13261) [[github]](https://github.
 
 **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**  
 Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, Yuqing Yang, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, **Steffi Chern**, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu  
-**Accepted to the *Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS D&B Track)*** [[paper]](https://arxiv.org/abs/2406.12753) [[github]](https://github.com/GAIR-NLP/OlympicArena) [[website]](https://gair-nlp.github.io/OlympicArena/)
+Accepted to the ***Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS D&B Track)*** [[paper]](https://arxiv.org/abs/2406.12753) [[github]](https://github.com/GAIR-NLP/OlympicArena) [[website]](https://gair-nlp.github.io/OlympicArena/)
 
 **Halu-J: Critique-Based Hallucination Judge**  
 Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu  
@@ -18,7 +18,7 @@ Preprint.
 
 **Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**  
 **Steffi Chern**, Ethan Chern, Graham Neubig, Pengfei Liu    
-**Accepted to the *Proceedings of Communications in Computer and Information Science (CCIS), AAAI 2025 AI4Research (Oral)*** [[paper]](https://arxiv.org/abs/2401.16788) [[github]](https://github.com/GAIR-NLP/scaleeval)
+Accepted to the ***Proceedings of Communications in Computer and Information Science (CCIS), AAAI 2025 AI4Research (Oral)*** [[paper]](https://arxiv.org/abs/2401.16788) [[github]](https://github.com/GAIR-NLP/scaleeval)
 
 **FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**  
 I-Chun Chern, **Steffi Chern**, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu    
