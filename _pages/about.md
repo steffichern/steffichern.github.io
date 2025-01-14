@@ -13,7 +13,7 @@ redirect_from:
 
 
 🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). Specifically, I'm interested in the following topics: 
-- **Superalignment**: Ensuring that superintelligent AI systems autonomously adhere to human goals, values, and safety standards, especially as they surpass human cognitive understanding and operate in scenarios that are hard for humans to control. [ScaleEval](https://arxiv.org/abs/2401.16788), [OlympicArena](https://arxiv.org/abs/2406.12753), [BeHonest](https://arxiv.org/abs/2406.13261), [Cognitive Engineering](to come).
+- **Superalignment**: Ensuring that superintelligent AI systems autonomously adhere to human goals, values, and safety standards, especially as they surpass human cognitive understanding and operate in scenarios that are hard for humans to control. [ScaleEval](https://arxiv.org/abs/2401.16788), [OlympicArena](https://arxiv.org/abs/2406.12753), [BeHonest](https://arxiv.org/abs/2406.13261).
 - **Trustworthy and Robust AI**: Ensuring AI systems are reliable, honest, and safe by developing tools to detect factual inaccuracies, prevent hallucinations, adapt AI behavior to dynamic human norms, and strengthen robustness against adversarial attacks. [BeHonest](https://arxiv.org/abs/2406.13261), [FacTool](https://arxiv.org/abs/2307.13528), [Align on the Fly](https://arxiv.org/abs/2312.15907), [Halu-J](https://arxiv.org/pdf/2407.12943), [Combating Adversarial Attacks](https://arxiv.org/abs/2401.05998).
 - **Evaluation and Benchmarking of LLMs**: Investigating scalable evaluation methods to assess the performance of LLMs. Emphasis on human-AI collaboration, leveraging AI to enhance humans oversight and evaluate model outputs effectively. [ScaleEval](https://arxiv.org/abs/2401.16788), [OlympicArena](https://arxiv.org/abs/2406.12753), [BeHonest](https://arxiv.org/abs/2406.13261).
 <!-- 🚀 In this rapidly evolving field, I strive to contribute to the advancement of techniques that ensure the trustworthiness and robustness of LLMs. -->
@@ -53,11 +53,11 @@ Accepted to the ***Thirty-eighth Annual Conference on Neural Information Process
 
 **Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**  
 **Steffi Chern**, Ethan Chern, Graham Neubig, Pengfei Liu    
-Accepted to the ***Proceedings of Communications in Computer and Information Science (CCIS), AAAI 2025 AI4Research (Oral)*** [[paper]](https://arxiv.org/abs/2401.16788) [[github]](https://github.com/GAIR-NLP/scaleeval)
+Accepted to the ***AAAI 2025 AI4Research (Oral)*** [[paper]](https://arxiv.org/abs/2401.16788) [[github]](https://github.com/GAIR-NLP/scaleeval)
 
 **Halu-J: Critique-Based Hallucination Judge**  
 Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu  
-Preprint. [[paper]](https://arxiv.org/pdf/2407.12943)
+Accepted to the ***AAAI 2025 Workshop on Preventing and Detecting LLM Misinformation (Oral)***. [[paper]](https://arxiv.org/pdf/2407.12943)
 
 **FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**  
 I-Chun Chern, **Steffi Chern**, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu    
