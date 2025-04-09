@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Hi everyone! I'm Steffi, and I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU). I'm seeking opportunities to pursue a Ph.D. degree in Computer Science starting Fall 2025. During my undergraduate years at CMU, I was fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/), [Prof. Pengfei Liu](http://pfliu.com/), and [Prof. Joel Greenhouse](https://www.stat.cmu.edu/~joel/).
+📢 <u>**Latest News**</u>: I'm fortunate to have been awarded the 2025 [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/)! Grateful for the support as I continue my research in the next few years.
 
+🎓 Hi everyone! I'm Steffi, and I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU). I'm seeking opportunities to pursue a Ph.D. degree in Computer Science starting Fall 2025. During my undergraduate years at CMU, I was fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/), [Prof. Pengfei Liu](http://pfliu.com/), and [Prof. Joel Greenhouse](https://www.stat.cmu.edu/~joel/).
 
 
 🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). Specifically, I'm interested in the following topics: 
@@ -17,8 +18,6 @@ redirect_from:
 - **Trustworthy and Robust AI**: Ensuring AI systems are reliable, honest, and safe by developing tools to detect factual inaccuracies, prevent hallucinations, adapt AI behavior to dynamic human norms, and strengthen robustness against adversarial attacks. [BeHonest](https://arxiv.org/abs/2406.13261), [FacTool](https://arxiv.org/abs/2307.13528), [Align on the Fly](https://arxiv.org/abs/2312.15907), [Halu-J](https://arxiv.org/pdf/2407.12943), [Combating Adversarial Attacks](https://arxiv.org/abs/2401.05998).
 - **Evaluation and Benchmarking of LLMs**: Investigating scalable evaluation methods to assess the performance of LLMs. Emphasis on human-AI collaboration, leveraging AI to enhance humans oversight and evaluate model outputs effectively. [ScaleEval](https://arxiv.org/abs/2401.16788), [OlympicArena](https://arxiv.org/abs/2406.12753), [BeHonest](https://arxiv.org/abs/2406.13261).
 <!-- 🚀 In this rapidly evolving field, I strive to contribute to the advancement of techniques that ensure the trustworthiness and robustness of LLMs. -->
-
-✨ I'm fortunate to have received an honorable mention for the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
 <!-- 🚀 In this rapidly evolving field, I strive to contribute towards establishing more reliable and comprehensive evaluation frameworks to better understand the capabilities and limitations of existing AI systems, thereby enhancing their trustworthiness and ensuring their behaviors follow human intentions. -->
 
