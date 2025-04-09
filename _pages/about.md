@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-📢 <u>**Latest News**</u>: I'm fortunate to have been awarded the 2025 [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/)! Grateful for the support as I continue my research in the next few years.
+📢 **Latest News**: I'm fortunate to have been awarded the 2025 [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/)! Grateful for the support as I continue my research in the next few years.
 
 🎓 Hi everyone! I'm Steffi, and I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU). I'm seeking opportunities to pursue a Ph.D. degree in Computer Science starting Fall 2025. During my undergraduate years at CMU, I was fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/), [Prof. Pengfei Liu](http://pfliu.com/), and [Prof. Joel Greenhouse](https://www.stat.cmu.edu/~joel/).
 
