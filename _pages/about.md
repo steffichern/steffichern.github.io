@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-📢 **Latest News**: I'm fortunate to have been awarded the 2025 [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/)! Grateful for the support as I continue my research in the next few years.
-
-🎓 Hi everyone! I'm Steffi, and I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU). I'm seeking opportunities to pursue a Ph.D. degree in Computer Science starting Fall 2025. During my undergraduate years at CMU, I was fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/), [Prof. Pengfei Liu](http://pfliu.com/), and [Prof. Joel Greenhouse](https://www.stat.cmu.edu/~joel/).
+🎓 Hi everyone! I'm an incoming Computer Science Ph.D. student at the University of Pennsylvania, advised by [Eric Wong](https://riceric22.github.io/). Before that, I graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU), where I was fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/) and [Prof. Pengfei Liu](http://pfliu.com/). I'm fortunate to be supported by the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/).
 
 
 🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). Specifically, I'm interested in the following topics: 
