@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Hi everyone! I'm an incoming Computer Science Ph.D. student at the University of Pennsylvania, advised by [Eric Wong](https://riceric22.github.io/). Before that, I graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU), where I was fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/) and [Prof. Pengfei Liu](http://pfliu.com/). I'm fortunate to be supported by the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/).
+🎓 Hi everyone! I'm an incoming Computer Science Ph.D. student at the University of Pennsylvania, advised by [Eric Wong](https://riceric22.github.io/). Before that, I graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU), where I was fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/) and [Prof. Pengfei Liu](http://pfliu.com/). I'm grateful to be supported by the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/).
 
 
 🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). Specifically, I'm interested in the following topics: 
