@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+🚨 **Latest News:** I'm an incoming Computer Science Ph.D. student at the University of Pennsylvania, advised by [Eric Wong](https://riceric22.github.io/). I'm fortunate to receive the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/) in 2025.
 
-🎓 Hi everyone! I'm an incoming Computer Science Ph.D. student at the University of Pennsylvania, advised by [Eric Wong](https://riceric22.github.io/). Before that, I graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU), where I was fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/) and [Prof. Pengfei Liu](http://pfliu.com/). I'm grateful to be supported by the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/).
-
+🎓 Hi everyone! I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU), where I was fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/) and [Prof. Pengfei Liu](http://pfliu.com/).
 
 🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). Specifically, I'm interested in the following topics: 
 - **Superalignment**: Ensuring that superintelligent AI systems autonomously adhere to human goals, values, and safety standards, especially as they surpass human cognitive understanding and operate in scenarios that are hard for humans to control. [ScaleEval](https://arxiv.org/abs/2401.16788), [OlympicArena](https://arxiv.org/abs/2406.12753), [BeHonest](https://arxiv.org/abs/2406.13261).
