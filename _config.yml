@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Steffi Chern"
   avatar           : "profile.png"
-  bio              : "undergrad senior majoring stats & machine learning @ CMU"
-  location         : "Pittsburgh, Pennsylvania"
+  bio              : "First-year PhD student @ UPenn"
+  location         : "Philadelphia, Pennsylvania"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=3n4fNzkAAAAJ&authuser=1"
-  email            : "steffic@alumni.cmu.edu"
+  email            : "steffic@seas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
