@@ -7,17 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🚨 **Latest News:** I'm an incoming Computer Science Ph.D. student at the University of Pennsylvania, advised by [Eric Wong](https://riceric22.github.io/). I'm fortunate to receive the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/) in 2025.
 
-🎓 Hi everyone! I recently graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU), where I was fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/) and [Prof. Pengfei Liu](http://pfliu.com/).
+👋 Hi everyone! I'm a first-year Computer Science Ph.D. student at the University of Pennsylvania, advised by [Eric Wong](https://riceric22.github.io/). I'm fortunate to receive the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/) in 2025. Before that, I graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon University (CMU), where I was advised by [Prof. Graham Neubig](https://www.phontron.com/) and [Prof. Pengfei Liu](http://pfliu.com/).
 
 🧠 My research interests lie at the intersection of natural language processing (NLP) and machine learning (ML). Specifically, I'm interested in the following topics: 
 - **Superalignment**: Ensuring that superintelligent AI systems autonomously adhere to human goals, values, and safety standards, especially as they surpass human cognitive understanding and operate in scenarios that are hard for humans to control. [ScaleEval](https://arxiv.org/abs/2401.16788), [OlympicArena](https://arxiv.org/abs/2406.12753), [BeHonest](https://arxiv.org/abs/2406.13261).
 - **Trustworthy and Robust AI**: Ensuring AI systems are reliable, honest, and safe by developing tools to detect factual inaccuracies, prevent hallucinations, adapt AI behavior to dynamic human norms, and strengthen robustness against adversarial attacks. [BeHonest](https://arxiv.org/abs/2406.13261), [FacTool](https://arxiv.org/abs/2307.13528), [Align on the Fly](https://arxiv.org/abs/2312.15907), [Halu-J](https://arxiv.org/pdf/2407.12943), [Combating Adversarial Attacks](https://arxiv.org/abs/2401.05998).
-- **Evaluation and Benchmarking of LLMs**: Investigating scalable evaluation methods to assess the performance of LLMs. Emphasis on human-AI collaboration, leveraging AI to enhance humans oversight and evaluate model outputs effectively. [ScaleEval](https://arxiv.org/abs/2401.16788), [OlympicArena](https://arxiv.org/abs/2406.12753), [BeHonest](https://arxiv.org/abs/2406.13261).
-<!-- 🚀 In this rapidly evolving field, I strive to contribute to the advancement of techniques that ensure the trustworthiness and robustness of LLMs. -->
-
-<!-- 🚀 In this rapidly evolving field, I strive to contribute towards establishing more reliable and comprehensive evaluation frameworks to better understand the capabilities and limitations of existing AI systems, thereby enhancing their trustworthiness and ensuring their behaviors follow human intentions. -->
+- 
+<!-- - **Evaluation and Benchmarking of LLMs**: Investigating scalable evaluation methods to assess the performance of LLMs. Emphasis on human-AI collaboration, leveraging AI to enhance humans oversight and evaluate model outputs effectively. [ScaleEval](https://arxiv.org/abs/2401.16788), [OlympicArena](https://arxiv.org/abs/2406.12753), [BeHonest](https://arxiv.org/abs/2406.13261).
+🚀 In this rapidly evolving field, I strive to contribute towards establishing more reliable and comprehensive evaluation frameworks to better understand the capabilities and limitations of existing AI systems, thereby enhancing their trustworthiness and ensuring their behaviors follow human intentions. -->
 
 ⛳ I was also a student-athlete, playing NCAA Women's Golf at CMU.
 
