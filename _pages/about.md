@@ -37,8 +37,8 @@ redirect_from:
 
 ⬇️ Below are some of my recent publications:
 
-**Thinking with Generated Images** 
-Ethan Chern, Zhulin Hu, **Steffi Chern**, Siqi Kou, Jiadi Su, Yan Ma, Zhijie Deng, Pengfei Liu
+**Thinking with Generated Images**  
+Ethan Chern, Zhulin Hu, **Steffi Chern**, Siqi Kou, Jiadi Su, Yan Ma, Zhijie Deng, Pengfei Liu  
 Preprint. [[paper]](https://arxiv.org/abs/2505.22525) [[github]](https://github.com/GAIR-NLP/thinking-with-generated-images)
 
 **BeHonest: Benchmarking Honesty in Large Language Models**  
