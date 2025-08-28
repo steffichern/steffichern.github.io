@@ -37,7 +37,7 @@ redirect_from:
 
 ⬇️ Below are some of my recent publications:
 
-**Thinking with Generated Images**
+**Thinking with Generated Images** 
 Ethan Chern, Zhulin Hu, **Steffi Chern**, Siqi Kou, Jiadi Su, Yan Ma, Zhijie Deng, Pengfei Liu
 Preprint. [[paper]](https://arxiv.org/abs/2505.22525) [[github]](https://github.com/GAIR-NLP/thinking-with-generated-images)
 
@@ -68,8 +68,6 @@ Preprint. [[paper]](https://arxiv.org/abs/2401.05998)
 **Align on the Fly: Adapting Chatbot Behavior to Established Norms**     
 Chunpu Xu, **Steffi Chern**, Ethan Chern, Ge Zhang, Zekun Wang, Ruibo Liu, Jing Li, Jie Fu, Pengfei Liu       
 Preprint. [[paper]](https://arxiv.org/abs/2312.15907) [[github]](https://github.com/GAIR-NLP/OPO)
-
-<script src="https://cdn.clustrmaps.com/map_v2.js?d=YOUR_ID&cl=ffffff&w=a"></script>
 
 <!--
 A data-driven personal website
