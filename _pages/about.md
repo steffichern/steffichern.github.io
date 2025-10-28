@@ -24,7 +24,7 @@ redirect_from:
 --------------------------------------------------------------------------------------------------------------
 # Academic Service 
 
-🔎 Reviewer: NeurIPS (2024, 2025), ICLR (2025), AISTATS (2025), COLM (2025)
+🔎 Reviewer: NeurIPS (2024, 2025), ICLR (2025, 2026), AISTATS (2025), COLM (2025)
 
 --------------------------------------------------------------------------------------------------------------
 # Teaching
@@ -36,7 +36,7 @@ redirect_from:
 --------------------------------------------------------------------------------------------------------------
 # Selected Publications
 
-⬇️ Below are some of my recent publications (full publication see [[here]](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=3n4fNzkAAAAJ&authuser=1):
+⬇️ Below are some of my recent publications (full publication see [here](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=3n4fNzkAAAAJ&authuser=1)):
 
 **Thinking with Generated Images**  
 Ethan Chern<sup>+</sup>, Zhulin Hu<sup>+</sup>, **Steffi Chern**<sup>+</sup>, Siqi Kou, Jiadi Su, Yan Ma, Zhijie Deng, Pengfei Liu  
@@ -47,7 +47,7 @@ Preprint. [[paper]](https://arxiv.org/abs/2505.22525) [[github]](https://github.
 Preprint. [[paper]](https://arxiv.org/abs/2406.13261) [[github]](https://github.com/GAIR-NLP/BeHonest) [[website]](https://gair-nlp.github.io/BeHonest/) 
 
 **Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**  
-Yan Ma, **Steffi Chern**, Xuyang Shen, Yiran Zhong, Pengfei Liu 
+Yan Ma, **Steffi Chern**, Xuyang Shen, Yiran Zhong, Pengfei Liu  
 Preprint. [[paper]](https://arxiv.org/abs/2504.02587) [[github]](https://github.com/GAIR-NLP/MAYE)  
 
 **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**  
