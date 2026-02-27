@@ -46,14 +46,6 @@ Preprint. [[paper]](https://arxiv.org/abs/2505.22525) [[github]](https://github.
 **Steffi Chern**<sup>+</sup>, Zhulin Hu<sup>+</sup>, Yuqing Yang<sup>+</sup>, Ethan Chern, Yuan Guo, Jiahe Jin, Binjie Wang, Pengfei Liu  
 Preprint. [[paper]](https://arxiv.org/abs/2406.13261) [[github]](https://github.com/GAIR-NLP/BeHonest) [[website]](https://gair-nlp.github.io/BeHonest/) 
 
-**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**  
-Yan Ma, **Steffi Chern**, Xuyang Shen, Yiran Zhong, Pengfei Liu  
-Preprint. [[paper]](https://arxiv.org/abs/2504.02587) [[github]](https://github.com/GAIR-NLP/MAYE)  
-
-**OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**  
-Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, Yuqing Yang, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, **Steffi Chern**, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu  
-Accepted to the ***NeurIPS D&B Track, 2024*** [[paper]](https://arxiv.org/abs/2406.12753) [[github]](https://github.com/GAIR-NLP/OlympicArena) [[website]](https://gair-nlp.github.io/OlympicArena/)
-
 **Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**  
 **Steffi Chern**, Ethan Chern, Graham Neubig, Pengfei Liu    
 Accepted to the ***AAAI 2025 AI4Research (Oral)*** [[paper]](https://arxiv.org/abs/2401.16788) [[github]](https://github.com/GAIR-NLP/scaleeval)
@@ -62,11 +54,20 @@ Accepted to the ***AAAI 2025 AI4Research (Oral)*** [[paper]](https://arxiv.org/a
 I-Chun Chern, **Steffi Chern**, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu    
 Accepted to ***COLM 2025***. [[paper]](https://arxiv.org/abs/2307.13528) [[github]](https://github.com/GAIR-NLP/factool) [[website]](https://ethanc111.github.io/factool_website/) 
 
+<!--
+**OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**  
+Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, Yuqing Yang, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, **Steffi Chern**, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu  
+Accepted to the ***NeurIPS D&B Track, 2024*** [[paper]](https://arxiv.org/abs/2406.12753) [[github]](https://github.com/GAIR-NLP/OlympicArena) [[website]](https://gair-nlp.github.io/OlympicArena/)
+
+**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**  
+Yan Ma, **Steffi Chern**, Xuyang Shen, Yiran Zhong, Pengfei Liu  
+Preprint. [[paper]](https://arxiv.org/abs/2504.02587) [[github]](https://github.com/GAIR-NLP/MAYE)  
+
 **Halu-J: Critique-Based Hallucination Judge**  
 Binjie Wang, **Steffi Chern**, Ethan Chern, Pengfei Liu  
 Accepted to the ***AAAI 2025 Workshop on Preventing and Detecting LLM Misinformation (Oral)***. [[paper]](https://arxiv.org/pdf/2407.12943)
 
-<!--
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
